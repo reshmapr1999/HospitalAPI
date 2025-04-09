@@ -26,4 +26,3 @@ This is a RESTful API for managing doctors, patients, and COVID-19 reports in a 
 
 ---
 
-e
